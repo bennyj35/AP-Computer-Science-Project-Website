@@ -1,0 +1,32 @@
+body {
+  background-color: darkslateblue;
+  padding-bottom: 70px;
+}
+
+.main {
+  color: white;
+  text-align: center;
+  font: 70px sans-serif;
+}
+.title2{
+  font: bold 40px sans-serif;
+  text-align: center;
+  color: ghostwhite;
+}
+.sectiontitle {
+  padding-left: 50px;
+  font: 30px sans-serif;
+  color: tomato;
+}
+
+li {
+  color: tomato;
+  padding-left: 80px;
+  font-size: 20px;
+
+}
+a {
+  color: white;
+  font: 20px sans-serif;
+  text-decoration: none;
+}
